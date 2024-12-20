@@ -1,8 +1,0 @@
-</html>
-    <head>
-        <title>WEBSITE Profile "John Due"</title>
-    </head>
-    <body>
-        <script src="stylep15.js"></script>
-    </body>
-</html>
